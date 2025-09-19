@@ -1,6 +1,6 @@
 # Análise Empírica de Complexidade de Algoritmos
 
-![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B%20%26%20Python-blue)
+![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B-blue)
 
 Este projeto apresenta uma análise prática do desempenho de algoritmos de ordenação e busca, desenvolvido como parte da disciplina de Estruturas de Dados Básicas II. O objetivo é comparar a complexidade teórica (Notação Big O) com o tempo de execução empírico medido em um ambiente real.
 
